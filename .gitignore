@@ -1,0 +1,7 @@
+temp/
+.DirIcon
+_gpgbuilder
+*.tar*
+*binary
+*.log
+*.AppImage

@@ -1,1 +1,1 @@
-# rstudio-appimage-unnoficial
+# Unnoficial AppImage for RStudio
